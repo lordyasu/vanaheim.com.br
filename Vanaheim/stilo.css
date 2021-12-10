@@ -1,0 +1,38 @@
+header div li{
+    display: inline;
+    padding: 20px;
+    margin-left: 160px;
+    font-family: sans-serif;
+    background-color: rgba(179, 179, 179, 0.548);
+    background-repeat: scroll;
+}
+header div a{
+    text-decoration: solid;
+    color: black;
+}
+header img{
+    padding-left: 550px;
+}
+body{
+    background-color: rgb(97, 3, 97);
+    font-family: sans-serif;
+}
+main{
+    background-color: rgb(0, 0, 0);
+    margin-left: 450px;
+    margin-right: 450px;
+    color: white;
+}
+main p{
+    font-size: 20px;
+}
+footer{
+    padding-top: 2px;
+    padding-left: 650px;
+}
+footer a{
+    text-decoration: solid;
+    color: black;
+    background-color: rgba(179, 179, 179, 0.548);
+    padding: 15px;
+}
